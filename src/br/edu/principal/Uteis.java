@@ -38,7 +38,7 @@ public class Uteis {
     }
     
     public static void sobre() {
-    	JOptionPane.showMessageDialog(null, 
+    	JOptionPane .showMessageDialog(null, 
     			"Desenvolvido por Roger M. Sarmento!");
     }
 }
